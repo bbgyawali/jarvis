@@ -1,0 +1,5 @@
+EAAoVvZAVj6lkBAP8aZBeHEby7XzvWv4cYb9uRkeopfd2WTLLaQQPuJYaIfEcdo5IZCqxAlmGcZAu0ZCCKlzgOeuyuefIRFCURD7ktBekttHTaRIy27z1ErmFY78PleQYayICSIiwxmQaYHEGdc5uzMnCdZBgOg5ZCM2MfJtViqa6GX5UOui8b8m
+
+
+
+bot ngrok url = " https://27de1764955b.ngrok.io"
